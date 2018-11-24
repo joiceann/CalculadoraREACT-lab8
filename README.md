@@ -1,1 +1,1 @@
-# CalculadoraREACT-lab8
+# web_lab_6_Memoria-React
